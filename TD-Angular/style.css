@@ -1,0 +1,21 @@
+.header{
+    color:ghostwhite;
+    background-color: dodgerblue;
+    font-family: "Trebuchet MS", Verdana, Geneva, Arial;
+    height:50px;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+    border-radius: 25px;
+}
+
+.header-cont {
+    width:100%;
+    position:relative;
+    text-align: center;
+    font-size: 2em;
+}
+
+body{
+    background-color: lightskyblue;
+}
